@@ -1,5 +1,4 @@
 import os
-import time
 import subprocess
 import glob
 from pynput import keyboard
