@@ -14,7 +14,7 @@ pip3 install pynput
 </code>
 
 3) pysox
-:terminal에서 소리를 출력할 수 있는 opensource
+:terminal에서 소리를 출력할 수 있는 opensource   
 https://github.com/rabitt/pysox
 <code>
 sudo apt-get install sox
