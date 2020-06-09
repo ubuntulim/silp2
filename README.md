@@ -4,7 +4,7 @@ Software Drum Machine
 숫자 패드 입력시 해당하는 드럼 소리 출력
 
 
-# 1. Software Development Setting
+# Software Development Setting
 1) python3.6   
 2) pynput   
 :키보드 인터럽트 처리 python opensource package   
