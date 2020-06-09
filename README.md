@@ -7,5 +7,8 @@ Software Drum Machine
 # 1. Software Development Setting
 1) pynput   
 :키보드 인터럽트 처리 python opensource package   
-https://github.com/moses-palmer/pynput
+[pynput github link][pynput]
+[pynput]: URL "https://github.com/moses-palmer/pynput"
+
+
  
