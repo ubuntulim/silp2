@@ -5,21 +5,24 @@ Software Drum Machine
 
 
 # 1. Software Development Setting
-1) pynput   
-:키보드 인터럽트 처리 python opensource package   
-https://github.com/moses-palmer/pynput
-<pre>
-<code>
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
-  }
+1) python3.6
+  2) pynput   
+  :키보드 인터럽트 처리 python opensource package   
+  https://github.com/moses-palmer/pynput
+  <pre>
+  <code>
+  pip3 install pynput
+  </code>
+  </pre>
 
-}
-</code>
-</pre>
-   
-2) pysox
+  3) pysox
+  :terminal에서 소리를 출력할 수 있는 opensource
+  https://github.com/rabitt/pysox
+  <pre>
+  <code>
+  sudo apt-get install sox
+  </code>
+  </pre>
 
 
 
