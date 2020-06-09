@@ -6,19 +6,19 @@ Software Drum Machine
 
 # 1. Software Development Setting
 1) python3.6
-  2) pynput   
-  :키보드 인터럽트 처리 python opensource package   
-  https://github.com/moses-palmer/pynput
-  <code>
-  pip3 install pynput
-  </code>
+2) pynput   
+:키보드 인터럽트 처리 python opensource package   
+https://github.com/moses-palmer/pynput
+<code>
+pip3 install pynput
+</code>
 
-  3) pysox
-  :terminal에서 소리를 출력할 수 있는 opensource
-  https://github.com/rabitt/pysox
-  <code>
-  sudo apt-get install sox
-  </code>
+3) pysox
+:terminal에서 소리를 출력할 수 있는 opensource
+https://github.com/rabitt/pysox
+<code>
+sudo apt-get install sox
+</code>
 
 
 
